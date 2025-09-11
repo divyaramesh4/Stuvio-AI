@@ -54,23 +54,6 @@
 
 ---
 
-### 🔧 Install FFmpeg
-
-- **Windows**: Download from [ffmpeg.org](https://ffmpeg.org), extract, and add `bin/` folder to PATH  
-- **macOS**:
-
-  ```bash
-  brew install ffmpeg
-  ```
-
-- **Linux**:
-
-  ```bash
-  sudo apt update && sudo apt install ffmpeg
-  ```
-
----
-
 ### ⚙️ Installation Steps
 
 1. **Clone or open your project folder**
@@ -130,7 +113,7 @@ Start the Flask server:
 python api/index.py
 ```
 
-Then open your browser and go to:  
+Then open your browser and go to:
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
